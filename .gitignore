@@ -5,3 +5,6 @@ dist/
 build/
 *~
 *.prof
+
+# Nix / NixOS
+/result
